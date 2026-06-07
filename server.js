@@ -21,6 +21,6 @@ app.get('/vendors', async (req, res) => {
   res.json(data)
 })
 
-app.listen(process.env.PORT, () => {
-  console.log(`Server running on port ${process.env.PORT}`)
+app.listen(process.env.PORT || 8080, () => {
+  console.log(`Server running on port ${process.env.PORT || 8080}`)
 })
