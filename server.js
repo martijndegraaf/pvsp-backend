@@ -62,6 +62,30 @@ app.get('/users', async (req, res) => {
   res.json(data)
 })
 
+// Global app data — shared across all users
+app.get('/data', async (req, res) => {
+  if (!supabaseAdmin) return res.status(500).json({ error: 'Service key not configured' })
+  const { data, error } = await supabaseAdmin
+    .from('pvsp_global_data')
+    .select('data, updated_at')
+    .eq('id', 1)
+    .single()
+  if (error) return res.status(500).json({ error: error.message })
+  res.json(data)
+})
+
+app.put('/data', async (req, res) => {
+  if (!supabaseAdmin) return res.status(500).json({ error: 'Service key not configured' })
+  const payload = req.body
+  if (!payload) return res.status(400).json({ error: 'No data provided' })
+  const { error } = await supabaseAdmin
+    .from('pvsp_global_data')
+    .update({ data: payload, updated_at: new Date().toISOString() })
+    .eq('id', 1)
+  if (error) return res.status(500).json({ error: error.message })
+  res.json({ message: 'Data saved' })
+})
+
 // Invite a new user — sends Supabase invite email so they can set their own password
 app.post('/invite-user', async (req, res) => {
   if (!supabaseAdmin) return res.status(500).json({ error: 'SUPABASE_SERVICE_KEY not configured on server' })
