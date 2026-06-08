@@ -23,9 +23,15 @@ const supabaseAdmin = process.env.SUPABASE_SERVICE_KEY
   : null
 
 app.get('/', (req, res) => {
+  const sk = process.env.SUPABASE_SERVICE_KEY
   res.json({
     message: 'PVSP backend is running!',
-    hasServiceKey: !!process.env.SUPABASE_SERVICE_KEY,
+    serviceKey: {
+      defined: sk !== undefined,
+      type: typeof sk,
+      length: sk ? sk.length : 0,
+      preview: sk ? sk.substring(0, 15) + '...' : 'MISSING'
+    },
     hasSupabaseKey: !!process.env.SUPABASE_KEY,
     hasSupabaseUrl: !!process.env.SUPABASE_URL,
   })
