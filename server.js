@@ -10,7 +10,7 @@ app.use(cors({
     'http://localhost:3000',
     'http://localhost:8080'
   ],
-  methods: ['GET', 'POST', 'OPTIONS'],
+  methods: ['GET', 'POST', 'PUT', 'OPTIONS'],
   allowedHeaders: ['Content-Type', 'Authorization']
 }))
 app.use(express.json())
