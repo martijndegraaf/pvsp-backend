@@ -4,16 +4,23 @@ require('dotenv').config()
 const { createClient } = require('@supabase/supabase-js')
 
 const app = express()
-app.use(cors())
+app.use(cors({
+  origin: [
+    'https://it-contract-vendor-management.onrender.com',
+    'http://localhost:3000',
+    'http://localhost:8080'
+  ],
+  methods: ['GET', 'POST', 'OPTIONS'],
+  allowedHeaders: ['Content-Type', 'Authorization']
+}))
 app.use(express.json())
 
 const supabase = createClient(process.env.SUPABASE_URL, process.env.SUPABASE_KEY)
 
 // Admin client with service role key — only for privileged operations
-const supabaseAdmin = createClient(
-  process.env.SUPABASE_URL,
-  process.env.SUPABASE_SERVICE_KEY
-)
+const supabaseAdmin = process.env.SUPABASE_SERVICE_KEY
+  ? createClient(process.env.SUPABASE_URL, process.env.SUPABASE_SERVICE_KEY)
+  : null
 
 app.get('/', (req, res) => {
   res.json({ message: 'PVSP backend is running!' })
@@ -57,6 +64,7 @@ app.get('/users', async (req, res) => {
 
 // Invite a new user — sends Supabase invite email so they can set their own password
 app.post('/invite-user', async (req, res) => {
+  if (!supabaseAdmin) return res.status(500).json({ error: 'SUPABASE_SERVICE_KEY not configured on server' })
   const { email, name, role } = req.body
   if (!email) return res.status(400).json({ error: 'Email is required' })
 
