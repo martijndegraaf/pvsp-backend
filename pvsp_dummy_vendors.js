@@ -60,7 +60,8 @@ var VENDORS = [
     "hHistory": [],
     "ce_owner": "Bas Hendriks",
     "slm_owner": "Lisa van den Berg",
-    "manager": "Sandra Kuijpers"
+    "manager": "Sandra Kuijpers",
+    "domain": "Archief & Informatiebeheer"
   },
   {
     "id": 2,
@@ -119,7 +120,8 @@ var VENDORS = [
     "hHistory": [],
     "ce_owner": "Bas Hendriks",
     "slm_owner": "Fatima El Idrissi",
-    "manager": "Sandra Kuijpers"
+    "manager": "Sandra Kuijpers",
+    "domain": "Burgerzaken"
   },
   {
     "id": 3,
@@ -205,7 +207,8 @@ var VENDORS = [
     "hHistory": [],
     "ce_owner": "Bas Hendriks",
     "slm_owner": "Lisa van den Berg",
-    "manager": "Sandra Kuijpers"
+    "manager": "Sandra Kuijpers",
+    "domain": "Bibliotheek"
   },
   {
     "id": 4,
@@ -264,7 +267,8 @@ var VENDORS = [
     "hHistory": [],
     "ce_owner": "Bas Hendriks",
     "slm_owner": "Fatima El Idrissi",
-    "manager": "Sandra Kuijpers"
+    "manager": "Sandra Kuijpers",
+    "domain": "Verkiezingen"
   },
   {
     "id": 5,
@@ -323,7 +327,8 @@ var VENDORS = [
     "hHistory": [],
     "ce_owner": "Bas Hendriks",
     "slm_owner": "Lisa van den Berg",
-    "manager": "Sandra Kuijpers"
+    "manager": "Sandra Kuijpers",
+    "domain": "Archief & Informatiebeheer"
   },
   {
     "id": 6,
@@ -382,7 +387,8 @@ var VENDORS = [
     "hHistory": [],
     "ce_owner": "Bas Hendriks",
     "slm_owner": "Fatima El Idrissi",
-    "manager": "Sandra Kuijpers"
+    "manager": "Sandra Kuijpers",
+    "domain": "KCC - Frontoffice"
   },
   {
     "id": 7,
@@ -441,7 +447,8 @@ var VENDORS = [
     "hHistory": [],
     "ce_owner": "Bas Hendriks",
     "slm_owner": "Lisa van den Berg",
-    "manager": "Sandra Kuijpers"
+    "manager": "Sandra Kuijpers",
+    "domain": "KCC - Frontoffice"
   },
   {
     "id": 8,
@@ -500,7 +507,8 @@ var VENDORS = [
     "hHistory": [],
     "ce_owner": "Bas Hendriks",
     "slm_owner": "Fatima El Idrissi",
-    "manager": "Sandra Kuijpers"
+    "manager": "Sandra Kuijpers",
+    "domain": "Innovatie & Dienstverlening"
   },
   {
     "id": 9,
@@ -559,7 +567,8 @@ var VENDORS = [
     "hHistory": [],
     "ce_owner": "Bas Hendriks",
     "slm_owner": "Lisa van den Berg",
-    "manager": "Sandra Kuijpers"
+    "manager": "Sandra Kuijpers",
+    "domain": "Bibliotheek"
   },
   {
     "id": 10,
@@ -618,7 +627,8 @@ var VENDORS = [
     "hHistory": [],
     "ce_owner": "Bas Hendriks",
     "slm_owner": "Fatima El Idrissi",
-    "manager": "Sandra Kuijpers"
+    "manager": "Sandra Kuijpers",
+    "domain": "Belastingzaken"
   },
   {
     "id": 11,
@@ -677,7 +687,8 @@ var VENDORS = [
     "hHistory": [],
     "ce_owner": "Bas Hendriks",
     "slm_owner": "Lisa van den Berg",
-    "manager": "Sandra Kuijpers"
+    "manager": "Sandra Kuijpers",
+    "domain": "Burgerzaken"
   },
   {
     "id": 12,
@@ -736,7 +747,8 @@ var VENDORS = [
     "hHistory": [],
     "ce_owner": "Bas Hendriks",
     "slm_owner": "Fatima El Idrissi",
-    "manager": "Sandra Kuijpers"
+    "manager": "Sandra Kuijpers",
+    "domain": "Archief & Informatiebeheer"
   },
   {
     "id": 13,
@@ -795,7 +807,8 @@ var VENDORS = [
     "hHistory": [],
     "ce_owner": "Bas Hendriks",
     "slm_owner": "Lisa van den Berg",
-    "manager": "Sandra Kuijpers"
+    "manager": "Sandra Kuijpers",
+    "domain": "Belastingzaken"
   },
   {
     "id": 14,
@@ -854,7 +867,8 @@ var VENDORS = [
     "hHistory": [],
     "ce_owner": "Bas Hendriks",
     "slm_owner": "Fatima El Idrissi",
-    "manager": "Sandra Kuijpers"
+    "manager": "Sandra Kuijpers",
+    "domain": "Belastingzaken"
   },
   {
     "id": 15,
@@ -913,7 +927,8 @@ var VENDORS = [
     "hHistory": [],
     "ce_owner": "Bas Hendriks",
     "slm_owner": "Lisa van den Berg",
-    "manager": "Sandra Kuijpers"
+    "manager": "Sandra Kuijpers",
+    "domain": "Belastingzaken"
   },
   {
     "id": 16,
@@ -972,7 +987,8 @@ var VENDORS = [
     "hHistory": [],
     "ce_owner": "Bas Hendriks",
     "slm_owner": "Fatima El Idrissi",
-    "manager": "Sandra Kuijpers"
+    "manager": "Sandra Kuijpers",
+    "domain": "Belastingzaken"
   },
   {
     "id": 17,
@@ -1085,7 +1101,8 @@ var VENDORS = [
     "hHistory": [],
     "ce_owner": "Bas Hendriks",
     "slm_owner": "Lisa van den Berg",
-    "manager": "Sandra Kuijpers"
+    "manager": "Sandra Kuijpers",
+    "domain": "Belastingzaken"
   },
   {
     "id": 18,
@@ -1144,7 +1161,8 @@ var VENDORS = [
     "hHistory": [],
     "ce_owner": "Bas Hendriks",
     "slm_owner": "Fatima El Idrissi",
-    "manager": "Sandra Kuijpers"
+    "manager": "Sandra Kuijpers",
+    "domain": "Belastingzaken"
   },
   {
     "id": 19,
@@ -1203,7 +1221,8 @@ var VENDORS = [
     "hHistory": [],
     "ce_owner": "Bas Hendriks",
     "slm_owner": "Lisa van den Berg",
-    "manager": "Sandra Kuijpers"
+    "manager": "Sandra Kuijpers",
+    "domain": "Belastingzaken"
   },
   {
     "id": 20,
@@ -1262,7 +1281,8 @@ var VENDORS = [
     "hHistory": [],
     "ce_owner": "Bas Hendriks",
     "slm_owner": "Fatima El Idrissi",
-    "manager": "Sandra Kuijpers"
+    "manager": "Sandra Kuijpers",
+    "domain": "Bibliotheek"
   },
   {
     "id": 21,
@@ -1321,7 +1341,8 @@ var VENDORS = [
     "hHistory": [],
     "ce_owner": "Bas Hendriks",
     "slm_owner": "Lisa van den Berg",
-    "manager": "Sandra Kuijpers"
+    "manager": "Sandra Kuijpers",
+    "domain": "Bibliotheek"
   },
   {
     "id": 22,
@@ -1380,7 +1401,8 @@ var VENDORS = [
     "hHistory": [],
     "ce_owner": "Bas Hendriks",
     "slm_owner": "Fatima El Idrissi",
-    "manager": "Sandra Kuijpers"
+    "manager": "Sandra Kuijpers",
+    "domain": "Bibliotheek"
   },
   {
     "id": 23,
@@ -1439,7 +1461,8 @@ var VENDORS = [
     "hHistory": [],
     "ce_owner": "Bas Hendriks",
     "slm_owner": "Lisa van den Berg",
-    "manager": "Sandra Kuijpers"
+    "manager": "Sandra Kuijpers",
+    "domain": "Bibliotheek"
   },
   {
     "id": 24,
@@ -1525,7 +1548,8 @@ var VENDORS = [
     "hHistory": [],
     "ce_owner": "Bas Hendriks",
     "slm_owner": "Fatima El Idrissi",
-    "manager": "Sandra Kuijpers"
+    "manager": "Sandra Kuijpers",
+    "domain": "Burgerzaken"
   },
   {
     "id": 25,
@@ -1584,7 +1608,8 @@ var VENDORS = [
     "hHistory": [],
     "ce_owner": "Bas Hendriks",
     "slm_owner": "Lisa van den Berg",
-    "manager": "Sandra Kuijpers"
+    "manager": "Sandra Kuijpers",
+    "domain": "Burgerzaken"
   },
   {
     "id": 26,
@@ -1643,7 +1668,8 @@ var VENDORS = [
     "hHistory": [],
     "ce_owner": "Bas Hendriks",
     "slm_owner": "Fatima El Idrissi",
-    "manager": "Sandra Kuijpers"
+    "manager": "Sandra Kuijpers",
+    "domain": "Burgerzaken"
   },
   {
     "id": 27,
@@ -1702,7 +1728,8 @@ var VENDORS = [
     "hHistory": [],
     "ce_owner": "Bas Hendriks",
     "slm_owner": "Lisa van den Berg",
-    "manager": "Sandra Kuijpers"
+    "manager": "Sandra Kuijpers",
+    "domain": "Innovatie & Dienstverlening"
   },
   {
     "id": 28,
@@ -1761,7 +1788,8 @@ var VENDORS = [
     "hHistory": [],
     "ce_owner": "Bas Hendriks",
     "slm_owner": "Fatima El Idrissi",
-    "manager": "Sandra Kuijpers"
+    "manager": "Sandra Kuijpers",
+    "domain": "KCC - Online"
   },
   {
     "id": 29,
@@ -1820,7 +1848,8 @@ var VENDORS = [
     "hHistory": [],
     "ce_owner": "Bas Hendriks",
     "slm_owner": "Lisa van den Berg",
-    "manager": "Sandra Kuijpers"
+    "manager": "Sandra Kuijpers",
+    "domain": "KCC - Online"
   },
   {
     "id": 30,
@@ -1879,7 +1908,8 @@ var VENDORS = [
     "hHistory": [],
     "ce_owner": "Bas Hendriks",
     "slm_owner": "Fatima El Idrissi",
-    "manager": "Sandra Kuijpers"
+    "manager": "Sandra Kuijpers",
+    "domain": "KCC - Online"
   },
   {
     "id": 31,
@@ -1938,7 +1968,8 @@ var VENDORS = [
     "hHistory": [],
     "ce_owner": "Bas Hendriks",
     "slm_owner": "Lisa van den Berg",
-    "manager": "Sandra Kuijpers"
+    "manager": "Sandra Kuijpers",
+    "domain": "KCC - Online"
   },
   {
     "id": 32,
@@ -1997,7 +2028,8 @@ var VENDORS = [
     "hHistory": [],
     "ce_owner": "Bas Hendriks",
     "slm_owner": "Fatima El Idrissi",
-    "manager": "Sandra Kuijpers"
+    "manager": "Sandra Kuijpers",
+    "domain": "KCC - Online"
   },
   {
     "id": 33,
@@ -2056,7 +2088,8 @@ var VENDORS = [
     "hHistory": [],
     "ce_owner": "Bas Hendriks",
     "slm_owner": "Lisa van den Berg",
-    "manager": "Sandra Kuijpers"
+    "manager": "Sandra Kuijpers",
+    "domain": "KCC - Online"
   },
   {
     "id": 34,
@@ -2115,7 +2148,8 @@ var VENDORS = [
     "hHistory": [],
     "ce_owner": "Bas Hendriks",
     "slm_owner": "Fatima El Idrissi",
-    "manager": "Sandra Kuijpers"
+    "manager": "Sandra Kuijpers",
+    "domain": "KCC - Online"
   },
   {
     "id": 35,
@@ -2174,7 +2208,8 @@ var VENDORS = [
     "hHistory": [],
     "ce_owner": "Bas Hendriks",
     "slm_owner": "Lisa van den Berg",
-    "manager": "Sandra Kuijpers"
+    "manager": "Sandra Kuijpers",
+    "domain": "Stadsdelen en Wijken"
   },
   {
     "id": 36,
@@ -2233,7 +2268,8 @@ var VENDORS = [
     "hHistory": [],
     "ce_owner": "Bas Hendriks",
     "slm_owner": "Fatima El Idrissi",
-    "manager": "Sandra Kuijpers"
+    "manager": "Sandra Kuijpers",
+    "domain": "Stadsdelen en Wijken"
   },
   {
     "id": 37,
@@ -2292,7 +2328,8 @@ var VENDORS = [
     "hHistory": [],
     "ce_owner": "Bas Hendriks",
     "slm_owner": "Lisa van den Berg",
-    "manager": "Sandra Kuijpers"
+    "manager": "Sandra Kuijpers",
+    "domain": "Fysiek Domein"
   },
   {
     "id": 38,
@@ -2351,7 +2388,8 @@ var VENDORS = [
     "hHistory": [],
     "ce_owner": "Bas Hendriks",
     "slm_owner": "Fatima El Idrissi",
-    "manager": "Sandra Kuijpers"
+    "manager": "Sandra Kuijpers",
+    "domain": "Verkiezingen"
   },
   {
     "id": 39,
@@ -2410,7 +2448,8 @@ var VENDORS = [
     "hHistory": [],
     "ce_owner": "Bas Hendriks",
     "slm_owner": "Lisa van den Berg",
-    "manager": "Sandra Kuijpers"
+    "manager": "Sandra Kuijpers",
+    "domain": "Verkiezingen"
   },
   {
     "id": 40,
@@ -2469,7 +2508,8 @@ var VENDORS = [
     "hHistory": [],
     "ce_owner": "Bas Hendriks",
     "slm_owner": "Fatima El Idrissi",
-    "manager": "Sandra Kuijpers"
+    "manager": "Sandra Kuijpers",
+    "domain": "KCC - Online"
   },
   {
     "id": 41,
@@ -2528,7 +2568,8 @@ var VENDORS = [
     "hHistory": [],
     "ce_owner": "Bas Hendriks",
     "slm_owner": "Lisa van den Berg",
-    "manager": "Sandra Kuijpers"
+    "manager": "Sandra Kuijpers",
+    "domain": "General"
   },
   {
     "id": 42,
@@ -2594,7 +2635,8 @@ var VENDORS = [
     ],
     "ce_owner": "Bas Hendriks",
     "slm_owner": "Fatima El Idrissi",
-    "manager": "Sandra Kuijpers"
+    "manager": "Sandra Kuijpers",
+    "domain": "Informatiebeveiliging"
   },
   {
     "id": 43,
@@ -2686,7 +2728,8 @@ var VENDORS = [
     ],
     "ce_owner": "Bas Hendriks",
     "slm_owner": "Lisa van den Berg",
-    "manager": "Sandra Kuijpers"
+    "manager": "Sandra Kuijpers",
+    "domain": "Jeugd & Onderwijs"
   },
   {
     "id": 44,
@@ -2778,7 +2821,8 @@ var VENDORS = [
     ],
     "ce_owner": "Bas Hendriks",
     "slm_owner": "Fatima El Idrissi",
-    "manager": "Sandra Kuijpers"
+    "manager": "Sandra Kuijpers",
+    "domain": "Handhaving"
   },
   {
     "id": 45,
@@ -2844,7 +2888,8 @@ var VENDORS = [
     ],
     "ce_owner": "Bas Hendriks",
     "slm_owner": "Lisa van den Berg",
-    "manager": "Sandra Kuijpers"
+    "manager": "Sandra Kuijpers",
+    "domain": "Burgerzaken"
   },
   {
     "id": 46,
@@ -2962,7 +3007,8 @@ var VENDORS = [
     ],
     "ce_owner": "Bas Hendriks",
     "slm_owner": "Fatima El Idrissi",
-    "manager": "Sandra Kuijpers"
+    "manager": "Sandra Kuijpers",
+    "domain": "KCC - Online"
   },
   {
     "id": 47,
@@ -3028,7 +3074,8 @@ var VENDORS = [
     ],
     "ce_owner": "Bas Hendriks",
     "slm_owner": "Lisa van den Berg",
-    "manager": "Sandra Kuijpers"
+    "manager": "Sandra Kuijpers",
+    "domain": "Verkiezingen"
   },
   {
     "id": 48,
@@ -3146,7 +3193,8 @@ var VENDORS = [
     ],
     "ce_owner": "Bas Hendriks",
     "slm_owner": "Fatima El Idrissi",
-    "manager": "Sandra Kuijpers"
+    "manager": "Sandra Kuijpers",
+    "domain": "HRM"
   },
   {
     "id": 49,
@@ -3238,7 +3286,8 @@ var VENDORS = [
     ],
     "ce_owner": "Bas Hendriks",
     "slm_owner": "Lisa van den Berg",
-    "manager": "Sandra Kuijpers"
+    "manager": "Sandra Kuijpers",
+    "domain": "Archief & Informatiebeheer"
   },
   {
     "id": 50,
@@ -3330,7 +3379,8 @@ var VENDORS = [
     ],
     "ce_owner": "Bas Hendriks",
     "slm_owner": "Fatima El Idrissi",
-    "manager": "Sandra Kuijpers"
+    "manager": "Sandra Kuijpers",
+    "domain": "Handhaving"
   },
   {
     "id": 51,
@@ -3422,7 +3472,8 @@ var VENDORS = [
     ],
     "ce_owner": "Bas Hendriks",
     "slm_owner": "Lisa van den Berg",
-    "manager": "Sandra Kuijpers"
+    "manager": "Sandra Kuijpers",
+    "domain": "Belastingzaken"
   },
   {
     "id": 52,
@@ -3488,7 +3539,8 @@ var VENDORS = [
     ],
     "ce_owner": "Bas Hendriks",
     "slm_owner": "Fatima El Idrissi",
-    "manager": "Sandra Kuijpers"
+    "manager": "Sandra Kuijpers",
+    "domain": "Sociale Zaken"
   },
   {
     "id": 53,
@@ -3554,7 +3606,8 @@ var VENDORS = [
     ],
     "ce_owner": "Bas Hendriks",
     "slm_owner": "Lisa van den Berg",
-    "manager": "Sandra Kuijpers"
+    "manager": "Sandra Kuijpers",
+    "domain": "Sociale Zaken"
   },
   {
     "id": 54,
@@ -3620,7 +3673,8 @@ var VENDORS = [
     ],
     "ce_owner": "Bas Hendriks",
     "slm_owner": "Fatima El Idrissi",
-    "manager": "Sandra Kuijpers"
+    "manager": "Sandra Kuijpers",
+    "domain": "Informatiebeveiliging"
   },
   {
     "id": 55,
@@ -3686,7 +3740,8 @@ var VENDORS = [
     ],
     "ce_owner": "Bas Hendriks",
     "slm_owner": "Lisa van den Berg",
-    "manager": "Sandra Kuijpers"
+    "manager": "Sandra Kuijpers",
+    "domain": "Burgerzaken"
   },
   {
     "id": 56,
@@ -3804,7 +3859,8 @@ var VENDORS = [
     ],
     "ce_owner": "Bas Hendriks",
     "slm_owner": "Fatima El Idrissi",
-    "manager": "Sandra Kuijpers"
+    "manager": "Sandra Kuijpers",
+    "domain": "Handhaving"
   },
   {
     "id": 57,
@@ -3870,7 +3926,8 @@ var VENDORS = [
     ],
     "ce_owner": "Bas Hendriks",
     "slm_owner": "Lisa van den Berg",
-    "manager": "Sandra Kuijpers"
+    "manager": "Sandra Kuijpers",
+    "domain": "Financiën"
   },
   {
     "id": 58,
@@ -3936,7 +3993,8 @@ var VENDORS = [
     ],
     "ce_owner": "Bas Hendriks",
     "slm_owner": "Fatima El Idrissi",
-    "manager": "Sandra Kuijpers"
+    "manager": "Sandra Kuijpers",
+    "domain": "Belastingzaken"
   },
   {
     "id": 59,
@@ -4002,7 +4060,8 @@ var VENDORS = [
     ],
     "ce_owner": "Bas Hendriks",
     "slm_owner": "Lisa van den Berg",
-    "manager": "Sandra Kuijpers"
+    "manager": "Sandra Kuijpers",
+    "domain": "Inkoop"
   },
   {
     "id": 60,
@@ -4068,7 +4127,8 @@ var VENDORS = [
     ],
     "ce_owner": "Bas Hendriks",
     "slm_owner": "Fatima El Idrissi",
-    "manager": "Sandra Kuijpers"
+    "manager": "Sandra Kuijpers",
+    "domain": "Ruimte & Wonen"
   },
   {
     "id": 61,
@@ -4160,7 +4220,8 @@ var VENDORS = [
     ],
     "ce_owner": "Bas Hendriks",
     "slm_owner": "Lisa van den Berg",
-    "manager": "Sandra Kuijpers"
+    "manager": "Sandra Kuijpers",
+    "domain": "Sociale Zaken"
   },
   {
     "id": 62,
@@ -4226,7 +4287,8 @@ var VENDORS = [
     ],
     "ce_owner": "Bas Hendriks",
     "slm_owner": "Fatima El Idrissi",
-    "manager": "Sandra Kuijpers"
+    "manager": "Sandra Kuijpers",
+    "domain": "Burgerzaken"
   },
   {
     "id": 63,
@@ -4292,7 +4354,8 @@ var VENDORS = [
     ],
     "ce_owner": "Bas Hendriks",
     "slm_owner": "Lisa van den Berg",
-    "manager": "Sandra Kuijpers"
+    "manager": "Sandra Kuijpers",
+    "domain": "KCC - Online"
   },
   {
     "id": 64,
@@ -4358,7 +4421,8 @@ var VENDORS = [
     ],
     "ce_owner": "Bas Hendriks",
     "slm_owner": "Fatima El Idrissi",
-    "manager": "Sandra Kuijpers"
+    "manager": "Sandra Kuijpers",
+    "domain": "Bibliotheek"
   },
   {
     "id": 65,
@@ -4424,7 +4488,8 @@ var VENDORS = [
     ],
     "ce_owner": "Bas Hendriks",
     "slm_owner": "Lisa van den Berg",
-    "manager": "Sandra Kuijpers"
+    "manager": "Sandra Kuijpers",
+    "domain": "Digitale Werkplek"
   },
   {
     "id": 66,
@@ -4516,7 +4581,8 @@ var VENDORS = [
     ],
     "ce_owner": "Bas Hendriks",
     "slm_owner": "Fatima El Idrissi",
-    "manager": "Sandra Kuijpers"
+    "manager": "Sandra Kuijpers",
+    "domain": "Jeugd & Onderwijs"
   },
   {
     "id": 67,
@@ -4608,7 +4674,8 @@ var VENDORS = [
     ],
     "ce_owner": "Bas Hendriks",
     "slm_owner": "Lisa van den Berg",
-    "manager": "Sandra Kuijpers"
+    "manager": "Sandra Kuijpers",
+    "domain": "Vergunningen"
   },
   {
     "id": 68,
@@ -4674,7 +4741,8 @@ var VENDORS = [
     ],
     "ce_owner": "Bas Hendriks",
     "slm_owner": "Fatima El Idrissi",
-    "manager": "Sandra Kuijpers"
+    "manager": "Sandra Kuijpers",
+    "domain": "Sociale Zaken"
   },
   {
     "id": 69,
@@ -4792,7 +4860,8 @@ var VENDORS = [
     ],
     "ce_owner": "Bas Hendriks",
     "slm_owner": "Lisa van den Berg",
-    "manager": "Sandra Kuijpers"
+    "manager": "Sandra Kuijpers",
+    "domain": "Archief & Informatiebeheer"
   },
   {
     "id": 70,
@@ -4884,7 +4953,8 @@ var VENDORS = [
     ],
     "ce_owner": "Bas Hendriks",
     "slm_owner": "Fatima El Idrissi",
-    "manager": "Sandra Kuijpers"
+    "manager": "Sandra Kuijpers",
+    "domain": "Handhaving"
   },
   {
     "id": 71,
@@ -4976,7 +5046,8 @@ var VENDORS = [
     ],
     "ce_owner": "Bas Hendriks",
     "slm_owner": "Lisa van den Berg",
-    "manager": "Sandra Kuijpers"
+    "manager": "Sandra Kuijpers",
+    "domain": "Vergunningen"
   },
   {
     "id": 72,
@@ -5094,7 +5165,8 @@ var VENDORS = [
     ],
     "ce_owner": "Bas Hendriks",
     "slm_owner": "Fatima El Idrissi",
-    "manager": "Sandra Kuijpers"
+    "manager": "Sandra Kuijpers",
+    "domain": "Archief & Informatiebeheer"
   },
   {
     "id": 73,
@@ -5186,7 +5258,8 @@ var VENDORS = [
     ],
     "ce_owner": "Bas Hendriks",
     "slm_owner": "Lisa van den Berg",
-    "manager": "Sandra Kuijpers"
+    "manager": "Sandra Kuijpers",
+    "domain": "Handhaving"
   },
   {
     "id": 74,
@@ -5278,7 +5351,8 @@ var VENDORS = [
     ],
     "ce_owner": "Bas Hendriks",
     "slm_owner": "Fatima El Idrissi",
-    "manager": "Sandra Kuijpers"
+    "manager": "Sandra Kuijpers",
+    "domain": "Informatiebeveiliging"
   },
   {
     "id": 75,
@@ -5344,7 +5418,8 @@ var VENDORS = [
     ],
     "ce_owner": "Bas Hendriks",
     "slm_owner": "Lisa van den Berg",
-    "manager": "Sandra Kuijpers"
+    "manager": "Sandra Kuijpers",
+    "domain": "Bibliotheek"
   },
   {
     "id": 76,
@@ -5410,7 +5485,8 @@ var VENDORS = [
     ],
     "ce_owner": "Bas Hendriks",
     "slm_owner": "Fatima El Idrissi",
-    "manager": "Sandra Kuijpers"
+    "manager": "Sandra Kuijpers",
+    "domain": "Handhaving"
   },
   {
     "id": 77,
@@ -5476,7 +5552,8 @@ var VENDORS = [
     ],
     "ce_owner": "Bas Hendriks",
     "slm_owner": "Lisa van den Berg",
-    "manager": "Sandra Kuijpers"
+    "manager": "Sandra Kuijpers",
+    "domain": "Belastingzaken"
   },
   {
     "id": 78,
@@ -5542,7 +5619,8 @@ var VENDORS = [
     ],
     "ce_owner": "Bas Hendriks",
     "slm_owner": "Fatima El Idrissi",
-    "manager": "Sandra Kuijpers"
+    "manager": "Sandra Kuijpers",
+    "domain": "Handhaving"
   },
   {
     "id": 79,
@@ -5608,7 +5686,8 @@ var VENDORS = [
     ],
     "ce_owner": "Bas Hendriks",
     "slm_owner": "Lisa van den Berg",
-    "manager": "Sandra Kuijpers"
+    "manager": "Sandra Kuijpers",
+    "domain": "Jeugd & Onderwijs"
   },
   {
     "id": 80,
@@ -5726,7 +5805,8 @@ var VENDORS = [
     ],
     "ce_owner": "Bas Hendriks",
     "slm_owner": "Fatima El Idrissi",
-    "manager": "Sandra Kuijpers"
+    "manager": "Sandra Kuijpers",
+    "domain": "Handhaving"
   },
   {
     "id": 81,
@@ -5818,7 +5898,8 @@ var VENDORS = [
     ],
     "ce_owner": "Bas Hendriks",
     "slm_owner": "Lisa van den Berg",
-    "manager": "Sandra Kuijpers"
+    "manager": "Sandra Kuijpers",
+    "domain": "Vergunningen"
   },
   {
     "id": 82,
@@ -5884,7 +5965,8 @@ var VENDORS = [
     ],
     "ce_owner": "Bas Hendriks",
     "slm_owner": "Fatima El Idrissi",
-    "manager": "Sandra Kuijpers"
+    "manager": "Sandra Kuijpers",
+    "domain": "Bibliotheek"
   },
   {
     "id": 83,
@@ -5950,7 +6032,8 @@ var VENDORS = [
     ],
     "ce_owner": "Bas Hendriks",
     "slm_owner": "Lisa van den Berg",
-    "manager": "Sandra Kuijpers"
+    "manager": "Sandra Kuijpers",
+    "domain": "Verkiezingen"
   },
   {
     "id": 84,
@@ -6016,7 +6099,8 @@ var VENDORS = [
     ],
     "ce_owner": "Bas Hendriks",
     "slm_owner": "Fatima El Idrissi",
-    "manager": "Sandra Kuijpers"
+    "manager": "Sandra Kuijpers",
+    "domain": "Informatiebeveiliging"
   },
   {
     "id": 85,
@@ -6082,7 +6166,8 @@ var VENDORS = [
     ],
     "ce_owner": "Bas Hendriks",
     "slm_owner": "Lisa van den Berg",
-    "manager": "Sandra Kuijpers"
+    "manager": "Sandra Kuijpers",
+    "domain": "Handhaving"
   },
   {
     "id": 86,
@@ -6148,7 +6233,8 @@ var VENDORS = [
     ],
     "ce_owner": "Bas Hendriks",
     "slm_owner": "Fatima El Idrissi",
-    "manager": "Sandra Kuijpers"
+    "manager": "Sandra Kuijpers",
+    "domain": "Digitale Werkplek"
   },
   {
     "id": 87,
@@ -6240,7 +6326,8 @@ var VENDORS = [
     ],
     "ce_owner": "Bas Hendriks",
     "slm_owner": "Lisa van den Berg",
-    "manager": "Sandra Kuijpers"
+    "manager": "Sandra Kuijpers",
+    "domain": "Vergunningen"
   },
   {
     "id": 88,
@@ -6358,7 +6445,8 @@ var VENDORS = [
     ],
     "ce_owner": "Bas Hendriks",
     "slm_owner": "Fatima El Idrissi",
-    "manager": "Sandra Kuijpers"
+    "manager": "Sandra Kuijpers",
+    "domain": "Burgerzaken"
   },
   {
     "id": 89,
@@ -6476,7 +6564,8 @@ var VENDORS = [
     ],
     "ce_owner": "Bas Hendriks",
     "slm_owner": "Lisa van den Berg",
-    "manager": "Sandra Kuijpers"
+    "manager": "Sandra Kuijpers",
+    "domain": "Handhaving"
   },
   {
     "id": 90,
@@ -6568,7 +6657,8 @@ var VENDORS = [
     ],
     "ce_owner": "Bas Hendriks",
     "slm_owner": "Fatima El Idrissi",
-    "manager": "Sandra Kuijpers"
+    "manager": "Sandra Kuijpers",
+    "domain": "Sociale Zaken"
   },
   {
     "id": 91,
@@ -6634,7 +6724,8 @@ var VENDORS = [
     ],
     "ce_owner": "Bas Hendriks",
     "slm_owner": "Lisa van den Berg",
-    "manager": "Sandra Kuijpers"
+    "manager": "Sandra Kuijpers",
+    "domain": "Bibliotheek"
   },
   {
     "id": 92,
@@ -6700,7 +6791,8 @@ var VENDORS = [
     ],
     "ce_owner": "Bas Hendriks",
     "slm_owner": "Fatima El Idrissi",
-    "manager": "Sandra Kuijpers"
+    "manager": "Sandra Kuijpers",
+    "domain": "Verkiezingen"
   },
   {
     "id": 93,
@@ -6766,7 +6858,8 @@ var VENDORS = [
     ],
     "ce_owner": "Bas Hendriks",
     "slm_owner": "Lisa van den Berg",
-    "manager": "Sandra Kuijpers"
+    "manager": "Sandra Kuijpers",
+    "domain": "Inkoop"
   },
   {
     "id": 94,
@@ -6832,7 +6925,8 @@ var VENDORS = [
     ],
     "ce_owner": "Bas Hendriks",
     "slm_owner": "Fatima El Idrissi",
-    "manager": "Sandra Kuijpers"
+    "manager": "Sandra Kuijpers",
+    "domain": "Inkoop"
   },
   {
     "id": 95,
@@ -6898,7 +6992,8 @@ var VENDORS = [
     ],
     "ce_owner": "Bas Hendriks",
     "slm_owner": "Lisa van den Berg",
-    "manager": "Sandra Kuijpers"
+    "manager": "Sandra Kuijpers",
+    "domain": "Financiën"
   },
   {
     "id": 96,
@@ -6964,7 +7059,8 @@ var VENDORS = [
     ],
     "ce_owner": "Bas Hendriks",
     "slm_owner": "Fatima El Idrissi",
-    "manager": "Sandra Kuijpers"
+    "manager": "Sandra Kuijpers",
+    "domain": "Vergunningen"
   },
   {
     "id": 97,
@@ -7030,7 +7126,8 @@ var VENDORS = [
     ],
     "ce_owner": "Bas Hendriks",
     "slm_owner": "Lisa van den Berg",
-    "manager": "Sandra Kuijpers"
+    "manager": "Sandra Kuijpers",
+    "domain": "Digitale Werkplek"
   },
   {
     "id": 98,
@@ -7096,7 +7193,8 @@ var VENDORS = [
     ],
     "ce_owner": "Bas Hendriks",
     "slm_owner": "Fatima El Idrissi",
-    "manager": "Sandra Kuijpers"
+    "manager": "Sandra Kuijpers",
+    "domain": "Archief & Informatiebeheer"
   },
   {
     "id": 99,
@@ -7162,7 +7260,8 @@ var VENDORS = [
     ],
     "ce_owner": "Bas Hendriks",
     "slm_owner": "Lisa van den Berg",
-    "manager": "Sandra Kuijpers"
+    "manager": "Sandra Kuijpers",
+    "domain": "Financiën"
   },
   {
     "id": 100,
@@ -7254,7 +7353,8 @@ var VENDORS = [
     ],
     "ce_owner": "Bas Hendriks",
     "slm_owner": "Fatima El Idrissi",
-    "manager": "Sandra Kuijpers"
+    "manager": "Sandra Kuijpers",
+    "domain": "Vergunningen"
   },
   {
     "id": 101,
@@ -7346,7 +7446,8 @@ var VENDORS = [
     ],
     "ce_owner": "Bas Hendriks",
     "slm_owner": "Lisa van den Berg",
-    "manager": "Sandra Kuijpers"
+    "manager": "Sandra Kuijpers",
+    "domain": "Bibliotheek"
   },
   {
     "id": 102,
@@ -7412,7 +7513,8 @@ var VENDORS = [
     ],
     "ce_owner": "Bas Hendriks",
     "slm_owner": "Fatima El Idrissi",
-    "manager": "Sandra Kuijpers"
+    "manager": "Sandra Kuijpers",
+    "domain": "Verkiezingen"
   },
   {
     "id": 103,
@@ -7478,7 +7580,8 @@ var VENDORS = [
     ],
     "ce_owner": "Bas Hendriks",
     "slm_owner": "Lisa van den Berg",
-    "manager": "Sandra Kuijpers"
+    "manager": "Sandra Kuijpers",
+    "domain": "Archief & Informatiebeheer"
   },
   {
     "id": 104,
@@ -7570,7 +7673,8 @@ var VENDORS = [
     ],
     "ce_owner": "Bas Hendriks",
     "slm_owner": "Fatima El Idrissi",
-    "manager": "Sandra Kuijpers"
+    "manager": "Sandra Kuijpers",
+    "domain": "Financiën"
   },
   {
     "id": 105,
@@ -7636,7 +7740,8 @@ var VENDORS = [
     ],
     "ce_owner": "Bas Hendriks",
     "slm_owner": "Lisa van den Berg",
-    "manager": "Sandra Kuijpers"
+    "manager": "Sandra Kuijpers",
+    "domain": "Handhaving"
   },
   {
     "id": 106,
@@ -7702,6 +7807,7 @@ var VENDORS = [
     ],
     "ce_owner": "Bas Hendriks",
     "slm_owner": "Fatima El Idrissi",
-    "manager": "Sandra Kuijpers"
+    "manager": "Sandra Kuijpers",
+    "domain": "Handhaving"
   }
 ];
