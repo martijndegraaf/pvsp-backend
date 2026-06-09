@@ -4,7 +4,7 @@
 
 var VENDORS = [
   {
-    "id": "v1",
+    "id": 1,
     "legal_name": "Axivion N.V.",
     "trade_name": "Axivion",
     "kvk": "78387461",
@@ -63,7 +63,7 @@ var VENDORS = [
     "manager": "Sandra Kuijpers"
   },
   {
-    "id": "v2",
+    "id": 2,
     "legal_name": "Velorix Solutions B.V.",
     "trade_name": "Velorix",
     "kvk": "49548160",
@@ -122,7 +122,7 @@ var VENDORS = [
     "manager": "Sandra Kuijpers"
   },
   {
-    "id": "v3",
+    "id": 3,
     "legal_name": "Nexaflow N.V.",
     "trade_name": "Nexaflow",
     "kvk": "52834131",
@@ -208,7 +208,7 @@ var VENDORS = [
     "manager": "Sandra Kuijpers"
   },
   {
-    "id": "v4",
+    "id": 4,
     "legal_name": "Orbitas Services B.V.",
     "trade_name": "Orbitas",
     "kvk": "64076551",
@@ -267,7 +267,7 @@ var VENDORS = [
     "manager": "Sandra Kuijpers"
   },
   {
-    "id": "v5",
+    "id": 5,
     "legal_name": "Datalink Pro B.V.",
     "trade_name": "Datalink Pro",
     "kvk": "22687990",
@@ -326,7 +326,7 @@ var VENDORS = [
     "manager": "Sandra Kuijpers"
   },
   {
-    "id": "v6",
+    "id": 6,
     "legal_name": "Zentryx B.V.",
     "trade_name": "Zentryx",
     "kvk": "43429716",
@@ -385,7 +385,7 @@ var VENDORS = [
     "manager": "Sandra Kuijpers"
   },
   {
-    "id": "v7",
+    "id": 7,
     "legal_name": "Procura IT Services B.V.",
     "trade_name": "Procura IT",
     "kvk": "98230012",
@@ -444,7 +444,7 @@ var VENDORS = [
     "manager": "Sandra Kuijpers"
   },
   {
-    "id": "v8",
+    "id": 8,
     "legal_name": "Solventa B.V.",
     "trade_name": "Solventa",
     "kvk": "62063214",
@@ -503,7 +503,7 @@ var VENDORS = [
     "manager": "Sandra Kuijpers"
   },
   {
-    "id": "v9",
+    "id": 9,
     "legal_name": "Terravox B.V.",
     "trade_name": "Terravox",
     "kvk": "44979542",
@@ -562,7 +562,7 @@ var VENDORS = [
     "manager": "Sandra Kuijpers"
   },
   {
-    "id": "v10",
+    "id": 10,
     "legal_name": "Cloudmesh Groep B.V.",
     "trade_name": "Cloudmesh",
     "kvk": "68740196",
@@ -621,7 +621,7 @@ var VENDORS = [
     "manager": "Sandra Kuijpers"
   },
   {
-    "id": "v11",
+    "id": 11,
     "legal_name": "Inforia B.V.",
     "trade_name": "Inforia",
     "kvk": "41008450",
@@ -680,7 +680,7 @@ var VENDORS = [
     "manager": "Sandra Kuijpers"
   },
   {
-    "id": "v12",
+    "id": 12,
     "legal_name": "Novatica B.V.",
     "trade_name": "Novatica",
     "kvk": "17330596",
@@ -739,7 +739,7 @@ var VENDORS = [
     "manager": "Sandra Kuijpers"
   },
   {
-    "id": "v13",
+    "id": 13,
     "legal_name": "Syntrix B.V.",
     "trade_name": "Syntrix",
     "kvk": "46618638",
@@ -798,7 +798,7 @@ var VENDORS = [
     "manager": "Sandra Kuijpers"
   },
   {
-    "id": "v14",
+    "id": 14,
     "legal_name": "Mirelis B.V.",
     "trade_name": "Mirelis",
     "kvk": "19507921",
@@ -857,7 +857,7 @@ var VENDORS = [
     "manager": "Sandra Kuijpers"
   },
   {
-    "id": "v15",
+    "id": 15,
     "legal_name": "Orbela B.V.",
     "trade_name": "Orbela",
     "kvk": "20246860",
@@ -916,7 +916,7 @@ var VENDORS = [
     "manager": "Sandra Kuijpers"
   },
   {
-    "id": "v16",
+    "id": 16,
     "legal_name": "Dataspan N.V.",
     "trade_name": "Dataspan",
     "kvk": "34603548",
@@ -975,7 +975,7 @@ var VENDORS = [
     "manager": "Sandra Kuijpers"
   },
   {
-    "id": "v17",
+    "id": 17,
     "legal_name": "Versori Groep B.V.",
     "trade_name": "Versori",
     "kvk": "91628797",
@@ -1088,7 +1088,7 @@ var VENDORS = [
     "manager": "Sandra Kuijpers"
   },
   {
-    "id": "v18",
+    "id": 18,
     "legal_name": "Heliport Systems Solutions B.V.",
     "trade_name": "Heliport Systems",
     "kvk": "10571812",
@@ -1147,7 +1147,7 @@ var VENDORS = [
     "manager": "Sandra Kuijpers"
   },
   {
-    "id": "v19",
+    "id": 19,
     "legal_name": "Quantura B.V.",
     "trade_name": "Quantura",
     "kvk": "44836157",
@@ -1206,7 +1206,7 @@ var VENDORS = [
     "manager": "Sandra Kuijpers"
   },
   {
-    "id": "v20",
+    "id": 20,
     "legal_name": "Evolvit Groep B.V.",
     "trade_name": "Evolvit",
     "kvk": "30008029",
@@ -1265,7 +1265,7 @@ var VENDORS = [
     "manager": "Sandra Kuijpers"
   },
   {
-    "id": "v21",
+    "id": 21,
     "legal_name": "Coresolve N.V.",
     "trade_name": "Coresolve",
     "kvk": "98544021",
@@ -1324,7 +1324,7 @@ var VENDORS = [
     "manager": "Sandra Kuijpers"
   },
   {
-    "id": "v22",
+    "id": 22,
     "legal_name": "Platforia N.V.",
     "trade_name": "Platforia",
     "kvk": "78610772",
@@ -1383,7 +1383,7 @@ var VENDORS = [
     "manager": "Sandra Kuijpers"
   },
   {
-    "id": "v23",
+    "id": 23,
     "legal_name": "Veridex Solutions B.V.",
     "trade_name": "Veridex",
     "kvk": "67624792",
@@ -1442,7 +1442,7 @@ var VENDORS = [
     "manager": "Sandra Kuijpers"
   },
   {
-    "id": "v24",
+    "id": 24,
     "legal_name": "Cognisec Services B.V.",
     "trade_name": "Cognisec",
     "kvk": "42979356",
@@ -1528,7 +1528,7 @@ var VENDORS = [
     "manager": "Sandra Kuijpers"
   },
   {
-    "id": "v25",
+    "id": 25,
     "legal_name": "Portivo Solutions B.V.",
     "trade_name": "Portivo",
     "kvk": "60256790",
@@ -1587,7 +1587,7 @@ var VENDORS = [
     "manager": "Sandra Kuijpers"
   },
   {
-    "id": "v26",
+    "id": 26,
     "legal_name": "Tessalink Solutions B.V.",
     "trade_name": "Tessalink",
     "kvk": "43142944",
@@ -1646,7 +1646,7 @@ var VENDORS = [
     "manager": "Sandra Kuijpers"
   },
   {
-    "id": "v27",
+    "id": 27,
     "legal_name": "Cloudica B.V.",
     "trade_name": "Cloudica",
     "kvk": "24458013",
@@ -1705,7 +1705,7 @@ var VENDORS = [
     "manager": "Sandra Kuijpers"
   },
   {
-    "id": "v28",
+    "id": 28,
     "legal_name": "Nexperia Docs Solutions B.V.",
     "trade_name": "Nexperia Docs",
     "kvk": "52752088",
@@ -1764,7 +1764,7 @@ var VENDORS = [
     "manager": "Sandra Kuijpers"
   },
   {
-    "id": "v29",
+    "id": 29,
     "legal_name": "Dynacord Groep B.V.",
     "trade_name": "Dynacord",
     "kvk": "53753937",
@@ -1823,7 +1823,7 @@ var VENDORS = [
     "manager": "Sandra Kuijpers"
   },
   {
-    "id": "v30",
+    "id": 30,
     "legal_name": "Silvatech B.V.",
     "trade_name": "Silvatech",
     "kvk": "52926897",
@@ -1882,7 +1882,7 @@ var VENDORS = [
     "manager": "Sandra Kuijpers"
   },
   {
-    "id": "v31",
+    "id": 31,
     "legal_name": "Aequus IT Solutions B.V.",
     "trade_name": "Aequus IT",
     "kvk": "82557897",
@@ -1941,7 +1941,7 @@ var VENDORS = [
     "manager": "Sandra Kuijpers"
   },
   {
-    "id": "v32",
+    "id": 32,
     "legal_name": "Flexoris Groep B.V.",
     "trade_name": "Flexoris",
     "kvk": "55643026",
@@ -2000,7 +2000,7 @@ var VENDORS = [
     "manager": "Sandra Kuijpers"
   },
   {
-    "id": "v33",
+    "id": 33,
     "legal_name": "Unitas Software Services B.V.",
     "trade_name": "Unitas Software",
     "kvk": "44276162",
@@ -2059,7 +2059,7 @@ var VENDORS = [
     "manager": "Sandra Kuijpers"
   },
   {
-    "id": "v34",
+    "id": 34,
     "legal_name": "Triskelion B.V.",
     "trade_name": "Triskelion",
     "kvk": "91559294",
@@ -2118,7 +2118,7 @@ var VENDORS = [
     "manager": "Sandra Kuijpers"
   },
   {
-    "id": "v35",
+    "id": 35,
     "legal_name": "Primasys Groep B.V.",
     "trade_name": "Primasys",
     "kvk": "27745172",
@@ -2177,7 +2177,7 @@ var VENDORS = [
     "manager": "Sandra Kuijpers"
   },
   {
-    "id": "v36",
+    "id": 36,
     "legal_name": "Dataverge B.V.",
     "trade_name": "Dataverge",
     "kvk": "64041937",
@@ -2236,7 +2236,7 @@ var VENDORS = [
     "manager": "Sandra Kuijpers"
   },
   {
-    "id": "v37",
+    "id": 37,
     "legal_name": "Corenia N.V.",
     "trade_name": "Corenia",
     "kvk": "88494233",
@@ -2295,7 +2295,7 @@ var VENDORS = [
     "manager": "Sandra Kuijpers"
   },
   {
-    "id": "v38",
+    "id": 38,
     "legal_name": "Evopulse N.V.",
     "trade_name": "Evopulse",
     "kvk": "81923995",
@@ -2354,7 +2354,7 @@ var VENDORS = [
     "manager": "Sandra Kuijpers"
   },
   {
-    "id": "v39",
+    "id": 39,
     "legal_name": "Nexvant Groep B.V.",
     "trade_name": "Nexvant",
     "kvk": "55767305",
@@ -2413,7 +2413,7 @@ var VENDORS = [
     "manager": "Sandra Kuijpers"
   },
   {
-    "id": "v40",
+    "id": 40,
     "legal_name": "Lumavex N.V.",
     "trade_name": "Lumavex",
     "kvk": "76441308",
@@ -2472,7 +2472,7 @@ var VENDORS = [
     "manager": "Sandra Kuijpers"
   },
   {
-    "id": "v41",
+    "id": 41,
     "legal_name": "Optirova B.V.",
     "trade_name": "Optirova",
     "kvk": "98528867",
